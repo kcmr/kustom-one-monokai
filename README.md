@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "kustom-one-monokai"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Kustom One Dark
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Dark theme for Visual Studio Code based on [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots
 
-**Enjoy!**
+![HTML files](images/kustom-one-monokai-html.png)
+![JavaScript files](images/kustom-one-monokai-javascript.png)
+![CSS files](images/kustom-one-monokai-css.png)

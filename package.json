@@ -17,6 +17,10 @@
         "one dark",
         "monokai"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kcmr/kustom-one-monokai"
+    },
     "contributes": {
         "themes": [
             {
