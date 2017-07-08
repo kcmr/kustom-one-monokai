@@ -2,7 +2,7 @@
     "name": "kustom-one-monokai",
     "displayName": "Kustom One Monokai",
     "description": "A fork of One Monokai theme based on Atom One Dark and Monokai.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "kuscamara",
     "engines": {
         "vscode": "^1.13.0"
