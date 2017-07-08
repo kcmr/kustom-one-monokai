@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.svg",
     "keywords": [
         "theme",
         "atom",
