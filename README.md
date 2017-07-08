@@ -5,5 +5,5 @@ Dark theme for Visual Studio Code based on [One Monokai](https://marketplace.vis
 ## Screenshots
 
 ![HTML files](images/kustom-one-monokai-html.png)
-![JavaScript files](images/kustom-one-monokai-javascript.png)
+![JavaScript files](images/kustom-one-monokai-js.png)
 ![CSS files](images/kustom-one-monokai-css.png)
