@@ -1,0 +1,29 @@
+{
+    "name": "kustom-one-monokai",
+    "displayName": "Kustom One Monokai",
+    "description": "A fork of One Monokai theme based on Atom One Dark and Monokai.",
+    "version": "0.0.1",
+    "publisher": "kuscamara",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "atom",
+        "dark",
+        "one dark",
+        "monokai"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kustom One Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kustom One Monokai-color-theme.json"
+            }
+        ]
+    }
+}
